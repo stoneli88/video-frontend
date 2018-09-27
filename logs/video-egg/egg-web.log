@@ -1,0 +1,46 @@
+2018-09-27 17:21:11,086 INFO 39665 [egg:logger] init all loggers with options: {"dir":"/Users/malik.l/Work/video-egg/logs/video-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"video-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-27 17:21:11,121 INFO 39665 [egg-schedule]: register schedule /Users/malik.l/Work/video-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-09-27 17:21:11,121 INFO 39665 [egg-schedule]: register schedule /Users/malik.l/Work/video-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-27 17:21:11,183 INFO 39665 [egg-static] starting static serve /public/ -> /Users/malik.l/Work/video-egg/app/public
+2018-09-27 17:21:11,185 INFO 39665 [egg-security] use csrf middleware
+2018-09-27 17:21:11,185 INFO 39665 [egg-security] use methodnoallow middleware
+2018-09-27 17:21:11,186 INFO 39665 [egg-security] use noopen middleware
+2018-09-27 17:21:11,186 INFO 39665 [egg-security] use nosniff middleware
+2018-09-27 17:21:11,186 INFO 39665 [egg-security] use xssProtection middleware
+2018-09-27 17:21:11,187 INFO 39665 [egg-security] use xframe middleware
+2018-09-27 17:21:11,187 INFO 39665 [egg-security] use dta middleware
+2018-09-27 17:21:11,187 INFO 39665 [egg-security] compose 7 middlewares into one security middleware
+2018-09-27 17:21:11,200 INFO 39665 [egg:core] dump config after load, 9ms
+2018-09-27 17:21:11,215 INFO 39665 [egg-watcher:application] watcher start success
+2018-09-27 17:21:11,220 INFO 39665 [egg:core] dump config after ready, 3ms
+2018-09-27 17:21:34,226 INFO 39665 [egg-view-nunjucks] loading templates from ["/Users/malik.l/Work/video-egg/app/view"]
+2018-09-27 17:31:43,537 INFO 39741 [egg:logger] init all loggers with options: {"dir":"/Users/malik.l/Work/video-egg/logs/video-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"video-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-27 17:31:43,573 INFO 39741 [egg-schedule]: register schedule /Users/malik.l/Work/video-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-09-27 17:31:43,573 INFO 39741 [egg-schedule]: register schedule /Users/malik.l/Work/video-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-27 17:31:43,661 INFO 39741 [egg-static] starting static serve /public/ -> /Users/malik.l/Work/video-egg/app/public
+2018-09-27 17:31:43,663 INFO 39741 [egg-security] use csrf middleware
+2018-09-27 17:31:43,664 INFO 39741 [egg-security] use methodnoallow middleware
+2018-09-27 17:31:43,664 INFO 39741 [egg-security] use noopen middleware
+2018-09-27 17:31:43,665 INFO 39741 [egg-security] use nosniff middleware
+2018-09-27 17:31:43,665 INFO 39741 [egg-security] use xssProtection middleware
+2018-09-27 17:31:43,665 INFO 39741 [egg-security] use xframe middleware
+2018-09-27 17:31:43,666 INFO 39741 [egg-security] use dta middleware
+2018-09-27 17:31:43,666 INFO 39741 [egg-security] compose 7 middlewares into one security middleware
+2018-09-27 17:31:43,674 INFO 39741 [egg:core] dump config after load, 5ms
+2018-09-27 17:31:43,687 INFO 39741 [egg-watcher:application] watcher start success
+2018-09-27 17:31:43,696 INFO 39741 [egg:core] dump config after ready, 7ms
+2018-09-27 17:34:21,126 INFO 39786 [egg:logger] init all loggers with options: {"dir":"/Users/malik.l/Work/video-egg/logs/video-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"video-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-09-27 17:34:21,168 INFO 39786 [egg-schedule]: register schedule /Users/malik.l/Work/video-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-09-27 17:34:21,168 INFO 39786 [egg-schedule]: register schedule /Users/malik.l/Work/video-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-09-27 17:34:21,236 INFO 39786 [egg-static] starting static serve /public/ -> /Users/malik.l/Work/video-egg/app/public
+2018-09-27 17:34:21,238 INFO 39786 [egg-security] use csrf middleware
+2018-09-27 17:34:21,238 INFO 39786 [egg-security] use methodnoallow middleware
+2018-09-27 17:34:21,239 INFO 39786 [egg-security] use noopen middleware
+2018-09-27 17:34:21,239 INFO 39786 [egg-security] use nosniff middleware
+2018-09-27 17:34:21,239 INFO 39786 [egg-security] use xssProtection middleware
+2018-09-27 17:34:21,240 INFO 39786 [egg-security] use xframe middleware
+2018-09-27 17:34:21,240 INFO 39786 [egg-security] use dta middleware
+2018-09-27 17:34:21,240 INFO 39786 [egg-security] compose 7 middlewares into one security middleware
+2018-09-27 17:34:21,251 INFO 39786 [egg:core] dump config after load, 7ms
+2018-09-27 17:34:21,270 INFO 39786 [egg-watcher:application] watcher start success
+2018-09-27 17:34:21,276 INFO 39786 [egg:core] dump config after ready, 4ms
