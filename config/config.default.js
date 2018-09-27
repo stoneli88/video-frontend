@@ -17,8 +17,12 @@ module.exports = appInfo => {
   // use for cookie sign key, should change to your own and keep security
   config.keys = appInfo.name + '_1538036182307_3293';
 
+  config.middleware = ['prisma'];
+
   // add your config here
-  config.middleware = [];
+  config.SERVERS = {
+    PRISMA: '127.0.0.1:4000'
+  };
 
   return config;
 };

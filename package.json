@@ -1,12 +1,17 @@
 {
-  "name": "video-egg",
+  "name": "video-frontend",
   "version": "1.0.0",
   "description": "",
   "private": true,
   "dependencies": {
+    "apollo-link": "^1.2.2",
+    "apollo-link-http": "^1.5.4",
     "egg": "^2.2.1",
     "egg-scripts": "^2.5.0",
-    "egg-view-nunjucks": "^2.2.0"
+    "egg-view-nunjucks": "^2.2.0",
+    "graphql": "^14.0.2",
+    "graphql-tag": "^2.9.2",
+    "node-fetch": "^2.2.0"
   },
   "devDependencies": {
     "autod": "^3.0.1",
